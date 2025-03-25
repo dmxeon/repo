@@ -1,0 +1,16 @@
+{
+    "description": "IPerf3 Server",
+    "domain": "is-local.org",
+    "subdomain": "iperf3",
+
+    "owner": {
+        "repo": "https://github.com/dmxeon/repo",
+        "email": "dmxeon@gmail.com"
+    },
+
+    "record": {
+        "A": ["213.232.204.48"]
+    },
+
+    "proxied": false
+}
